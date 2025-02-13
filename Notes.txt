@@ -1,0 +1,5 @@
+Using Apollo to make GraphQL requests:
+https://www.apollographql.com/docs/react/get-started
+
+Using Material UI to speed up front-end-development
+https://mui.com/material-ui/getting-started/
